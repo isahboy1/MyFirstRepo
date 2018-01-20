@@ -1,0 +1,33 @@
+* {
+    background-color: #372bc0;
+    color:#fff;
+}
+header{
+    background-color: rgb(250, 244, 244);
+}
+#image{
+    margin-left:500px;
+    padding:0px;
+    border: 3px solid;
+    width:230px;
+    height: 250px;
+
+}
+
+fieldset{
+    display:grid;
+    grid-template-columns: rows;
+    vertical-align: bottom;
+    
+}
+.submit{
+    margin-left:500px;
+    padding:-5px;
+    color:#4fae8e;
+}
+
+
+footer{
+    font-size:20px;
+    text-align: center;
+}
